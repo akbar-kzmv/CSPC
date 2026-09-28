@@ -6,7 +6,6 @@ conda env create -f PW1/Lab A/environment.yml
 conda activate cspc
 ---
 ## PW1 - Lab A: Reproducible Foundations
-4
 Computer Science for Physics and Chemistry PW1 – Lab A
 **What I built:**
 - I built CSPC repository structure, created Conda environment, added radioactive decay simulation tests and compared the perfomance of NumPy and pure Python.
